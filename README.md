@@ -1,4 +1,6 @@
-# SurveysCreator
+# Surveys Creator
+
+This project is a Survey Creator developed in Angular, you can use it as is for your open source or "fun" projects. If you want to use it in any commercial project, you have to ask for permission to **[Jorge Renteral](mailto:jorgerenteral@gmail.com)**
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
